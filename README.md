@@ -18,6 +18,7 @@
 🔴 Dashboard that shows higlights
 
 ## Screenshots
+
 ![image](https://github.com/user-attachments/assets/fd8a0732-8854-4c0e-9903-fc3433d96701)
 
 ![image](https://github.com/user-attachments/assets/5caef1ef-dda5-48cc-8c06-e9efcec17ddf)
